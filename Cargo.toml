@@ -1,0 +1,8 @@
+[package]
+name = "tower-scylla-sessions"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+scylla = "0.14.0"
+tower = "0.5.1"
